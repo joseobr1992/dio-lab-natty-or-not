@@ -21,22 +21,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+O projeto se trata de um ebook
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi criado um ebook usando IA's generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, Copilot e Word
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Elaborei um prompt para o ChatGPT me retornar um ebook de 7 páginas, também elaborei um prompt para o Copilot me retornar uma capa para o ebook, depois formatei no Word e salvei em PDF.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi a criação do Ebook
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi a primeira vez que criei um ebook e usaod IA o processo foi bem facilitado.
 
 ### Exemplos e Insigths
 
