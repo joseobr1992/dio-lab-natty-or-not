@@ -33,7 +33,7 @@ ChatGPT, Copilot e Word
 Elaborei um prompt para o ChatGPT me retornar um ebook de 7 páginas, também elaborei um prompt para o Copilot me retornar uma capa para o ebook, depois formatei no Word e salvei em PDF.
 
 ## 🚀 Resultados
-O resultado foi a criação do [Ebook](https://github.com/joseobr1992/dio-lab-natty-or-not/blob/main/exemplos/Ebook%20-%20A%20import%C3%A2ncia%20das%20Inteligencias%20Artificiais%20nos%20dias%20atuais.pdf)
+O resultado foi a criação do [Ebook](https://github.com/joseobr1992/dio-lab-natty-or-not/tree/main/exemplos) nome Ebook - A importância das Inteligencias Artificiais nos dias atuais
 
 ## 💭 Reflexão (Opcional)
 Foi a primeira vez que criei um ebook e usaod IA o processo foi bem facilitado.
